@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = mar 04 mar 2014 17:32:12 CET
+
+BeginCmp
+TimeStamp = /5315F6E2;
+Reference = IR1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F7FA;
+Reference = LED1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6DF;
+Reference = MIC1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6AC;
+Reference = Q1;
+ValeurCmp = TIP120;
+IdModule  = TO220;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6A7;
+Reference = Q2;
+ValeurCmp = TIP120;
+IdModule  = TO220;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6AA;
+Reference = Q3;
+ValeurCmp = TIP120;
+IdModule  = TO220;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6B7;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6B5;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F6B1;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5315F698;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD_2_040pins;
+EndCmp
+
+EndListe
