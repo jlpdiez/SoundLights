@@ -1,8 +1,7 @@
-SoundLights: 
-	The aim of this project is to make a sound-controlled RGB LED strip for cheap awesome home-illumination.
-	It's controlled through an IR remote and has some music-reactive effects.
+The aim of this project is to make a sound-controlled RGB LED strip for cheap 
+awesome home-illumination. It's controlled through an IR remote and has some music-reactive effects.
 
-Hardware used:
+Hardware used: 
 	* Arduino UNO
 	* RGB LED strip
 	* IR remote + IR sensor
